@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Shalok+Sharma;Developer+by+Nature%2C+Explorer+by+Thoughts;Software+Engineer+%40+Deakin+University;Building+codetopodcast.me+%F0%9F%8E%99%EF%B8%8F" alt="Typing SVG" />
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
 </div>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shalok-sharma" target="_blank">
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/static/v1?message=Open+to+Work&logo=handshake&label=&color=22C55E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="open to work" />
 </div>
 
-###
+
 
 ## 🚀 Featured Project — Live SaaS
 
@@ -57,7 +57,6 @@
 
 > Built end-to-end as a solo SaaS product — handles repo ingestion, AI-powered summarisation, and audio generation autonomously.
 
----
 
 ## 🌍 Open Source Contributions
 
@@ -78,14 +77,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shalok-sys&theme=tokyo-night&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=false&area_color=4c1d95" width="100%" alt="GitHub Activity Graph" />
 </div>
 
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Shalok-sys&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalok-sys&show_icons=true&theme=tokyonight)
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shalok-sys/Shalok-sys/output/pacman-contribution-graph-dark.svg">
