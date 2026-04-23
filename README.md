@@ -83,7 +83,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Shalok-sys&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shalok-sys)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalok-sys&show_icons=true&theme=tokyonight)
 
 ###
 
