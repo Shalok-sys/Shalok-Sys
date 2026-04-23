@@ -92,7 +92,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shalok-sys/Shalok-sys/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shalok-sys/Shalok-sys/output/pacman-contribution-graph.svg">
 </picture>
-![Pac-Man contribution graph](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg)
 ###
 
 ---
@@ -114,40 +113,6 @@
 🌏 **Global Citizenship Award** — Cross-cultural engagement & international perspective  
 📡 **HD every trimester** @ Deakin University  
 🛠️ **Tech Mentor** — Electronics Unplugged Workshop 2024
-
----
-
-## ⚙️ Setup the Pac-Man Animation
-
-> To enable the animated Pac-Man contribution graph, add this GitHub Actions workflow to your profile repo at `.github/workflows/pacman.yml`:
-
-```yaml
-name: Generate Pacman
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman-contribution-graph.svg?palette=github
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=purple
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ---
 
