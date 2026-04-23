@@ -92,7 +92,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shalok-sys/Shalok-sys/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shalok-sys/Shalok-sys/output/pacman-contribution-graph.svg">
 </picture>
-
+![Pac-Man contribution graph](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg)
 ###
 
 ---
